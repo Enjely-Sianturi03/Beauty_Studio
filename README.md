@@ -19,21 +19,21 @@ Seiring bertambahnya pelanggan dan variasi layanan yang ditawarkan, cara kerja i
 Website **Beauty Studio** dikembangkan untuk menjawab kendala tersebut dengan menghadirkan **sistem informasi berbasis web** yang terintegrasi dan mudah digunakan.  
 Platform ini dirancang agar dapat diakses oleh **pelanggan, pegawai, maupun pemilik salon**, sehingga proses operasional menjadi lebih teratur dan transparan.
 
----
+
 
 ### 💅 **Fitur Pelanggan**
 - **Reservasi Online:** Pelanggan dapat memesan layanan seperti potong rambut, creambath, facial, atau perawatan kuku secara daring dengan memilih tanggal dan waktu yang diinginkan.  
 - **Pelacakan Status Reservasi:** Melalui kode booking, pelanggan bisa melihat status reservasi mereka secara real-time.  
 - **Riwayat Layanan:** Sistem menampilkan catatan layanan dan transaksi sebelumnya untuk memudahkan pelanggan memilih layanan pada kunjungan berikutnya.  
 
----
+
 
 ### 💼 **Fitur Pegawai**
 - **Penjadwalan Kerja:** Pegawai dapat mengakses jadwal kerja dan daftar pelanggan yang sudah melakukan reservasi sesuai dengan shift atau waktu yang telah ditentukan.  
 - **Pembaruan Status Layanan:** Setiap pegawai bisa memperbarui status layanan menjadi sedang dikerjakan atau selesai langsung melalui sistem.  
 - **Laporan Harian:** Sistem secara otomatis membuat laporan aktivitas harian pegawai untuk membantu proses evaluasi kinerja dan perhitungan gaji.  
 
----
+
 
 ### 💻 **Fitur Pemilik Salon**
 - **Manajemen Data Terpadu:** Pemilik dapat mengelola data pelanggan, layanan, produk, pegawai, serta transaksi keuangan dari satu sistem terpusat.  
@@ -41,7 +41,7 @@ Platform ini dirancang agar dapat diakses oleh **pelanggan, pegawai, maupun pemi
 - **Laporan Keuangan Otomatis:** Sistem menghasilkan laporan pendapatan dan pengeluaran harian, mingguan, hingga bulanan secara otomatis tanpa perlu pencatatan manual.  
 - **Cetak Invoice dan Laporan:** Pemilik dapat mencetak invoice transaksi serta laporan keuangan langsung dari website dengan format yang rapi dan profesional.  
 
----
+
 
 Dengan penerapan website ini, seluruh kegiatan operasional di **Beauty Studio** menjadi lebih **terorganisir, cepat, dan akurat**.  
 Data pelanggan, layanan, dan transaksi tersimpan dengan aman dalam sistem digital, sementara pelanggan mendapatkan kemudahan dalam melakukan reservasi dan memperoleh pelayanan yang lebih modern.  
