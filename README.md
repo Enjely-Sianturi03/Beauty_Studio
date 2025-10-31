@@ -13,7 +13,7 @@
 ## 📝 Description
 *Beauty Studio* adalah website layanan salon modern yang dibuat untuk memudahkan pelanggan melakukan *reservasi online, melihat **layanan salon, dan membantu pemilik dalam **mengelola data pelanggan, layanan, serta booking* secara efisien.
 
-Website ini dibangun menggunakan *Laravel* dan *MySQL, dengan tampilan elegan berbasis **HTML, CSS, dan JavaScript*.
+
 ---
 
 ## ⚙ Tech Stack
