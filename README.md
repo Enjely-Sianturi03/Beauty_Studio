@@ -1,11 +1,11 @@
 # 💄 Beauty Studio Website
 
 ## 👩‍💻 Kelompok / Developer
-- *Cindy Artika* (241402012) – Frontend
-- *Salwa Halila* (241402027) – Frontend
-- *Rohaya Hasibuan* (241402030) – Backend 
-- *Enjely Margaret Sianturi* (241402046) – Backend    
-- *Willy Armando Sianipar* (241402135) – Backend & Frontend Developer
+- **Cindy Artika** (241402012) – Frontend
+- **Salwa Halila** (241402027) – Frontend
+- **Rohaya Hasibuan** (241402030) – Backend 
+- **Enjely Margaret Sianturi** (241402046) – Backend    
+- **Willy Armando Sianipar** (241402135) – Backend & Frontend Developer
 
 
 ---
@@ -15,7 +15,7 @@ Beauty Studio merupakan usaha di bidang kecantikan yang berfokus pada layanan pe
 
 Website Beauty Studio dikembangkan untuk menjawab kendala tersebut dengan menghadirkan sistem informasi berbasis web yang terintegrasi dan mudah digunakan. Platform ini dirancang agar dapat diakses oleh pelanggan, pegawai, maupun pemilik salon, sehingga proses operasional menjadi lebih teratur dan transparan.
 
-Fitur Pelanggan
+**Fitur Pelanggan**
 
 Reservasi Online: Pelanggan dapat memesan layanan seperti potong rambut, creambath, facial, atau perawatan kuku secara daring dengan memilih tanggal dan waktu yang diinginkan.
 
@@ -23,7 +23,7 @@ Pelacakan Status Reservasi: Melalui kode booking, pelanggan bisa melihat status 
 
 Riwayat Layanan: Sistem menampilkan catatan layanan dan transaksi sebelumnya untuk memudahkan pelanggan memilih layanan pada kunjungan berikutnya.
 
-Fitur Pegawai
+**Fitur Pegawai**
 
 Penjadwalan Kerja: Pegawai dapat mengakses jadwal kerja dan daftar pelanggan yang sudah melakukan reservasi sesuai dengan shift atau waktu yang telah ditentukan.
 
@@ -31,7 +31,7 @@ Pembaruan Status Layanan: Setiap pegawai bisa memperbarui status layanan menjadi
 
 Laporan Harian: Sistem secara otomatis membuat laporan aktivitas harian pegawai untuk membantu proses evaluasi kinerja dan perhitungan gaji.
 
-Fitur Pemilik Salon
+**Fitur Pemilik Salon**
 
 Manajemen Data Terpadu: Pemilik dapat mengelola data pelanggan, layanan, produk, pegawai, serta transaksi keuangan dari satu sistem terpusat.
 
