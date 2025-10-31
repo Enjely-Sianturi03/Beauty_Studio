@@ -1,7 +1,12 @@
 # 💄 Beauty Studio Website
 
 ## 👩‍💻 Kelompok / Developer
-- *Enjely Margaret Sianturi* – Backend & Frontend Developer  
+- *Cindy Artika* (241402012) – Frontend
+- *Salwa Halila* (241402027) – Frontend
+- *Rohaya Hasibuan* (241402030) – Backend 
+- *Enjely Margaret Sianturi* (241402046) – Backend    
+- *Willy Armando Sianipar* (241402135) – Backend & Frontend Developer
+
 
 ---
 
