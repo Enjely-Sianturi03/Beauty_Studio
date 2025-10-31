@@ -39,24 +39,24 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek di komputer lokal:
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/Enjely-Sianturi03/Beauty_Studio.git
-
+```
 ### 2️⃣ Masuk ke Folder Proyek
 ```bash
 cd BeautyStudio
-
+```
 ### 3️⃣ Install Dependency Composer
 Pastikan Composer sudah terinstal.
 ```bash
 composer install
-
+```
 4️⃣ Salin File .env dari Contoh
 ```bash
 cp .env.example .env
-
+```
 5️⃣ Generate App Key
 ```bash
 php artisan key:generate
-
+```
 6️⃣ Atur Konfigurasi Database di .env
 Contoh pengaturan:
 ```bash
@@ -66,15 +66,16 @@ DB_PORT=3306
 DB_DATABASE=beauty_studio
 DB_USERNAME=root
 DB_PASSWORD=
-
+```
 7️⃣ Jalankan Migrasi Database
 ```bash
 php artisan migrate
-
+```
 8️⃣ Jalankan Seeder
 ```bash
 php artisan db:seed
-
+```
 9️⃣ Jalankan Server Laravel
 ```bash
 php artisan serve
+```
